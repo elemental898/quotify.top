@@ -6,7 +6,7 @@ Built with ❤️ using **FastAPI** and a **retro-minimal HTML/CSS** design.
 
 ---
 
-🔗 **Live API:** [https://www.quotify.top](https://api.quotify.top)  
+🔗 **Live API:** [https://api.quotify.top](https://api.quotify.top)  
 📘 **Docs:** [https://www.quotify.top/docs](https://www.quotify.top/docs)  
 🪶 **Upcoming App:** [https://app.quotify.top](https://app.quotify.top)
 
